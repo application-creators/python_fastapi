@@ -16,8 +16,8 @@ python -m create_app python_fastapi
  * Project structure
  * A [FastAPI](https://fastapi.tiangolo.com/) API:
    * Configurable through environment variables and environment file
-   * CORS
-   * Base models for endpoints with pagination
+   * With CORS
+   * And Base models for endpoints with pagination
  * Virtualenv
  * Unit tests
  * Docker containerization

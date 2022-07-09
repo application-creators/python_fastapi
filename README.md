@@ -124,3 +124,9 @@ To run all unit tests:
 ```shell
 make run_unit_tests
 ```
+
+
+## Build your API
+
+It's as simple as adding routers to the [routers](/%7B%7B%20cookiecutter.project_package_name%20%7D%7D/%7B%7B%20cookiecutter.project_package_name%20%7D%7D/routers)
+package, and registering them in [routers/\_\_init\_\_py](/%7B%7B%20cookiecutter.project_package_name%20%7D%7D/%7B%7B%20cookiecutter.project_package_name%20%7D%7D/routers/__init__.py).

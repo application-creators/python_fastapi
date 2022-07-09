@@ -49,7 +49,7 @@ docker_build:
 
 
 docker_run:
-	docker run -it {{ cookiecutter.project_package_name }}
+	docker run -it {{ cookiecutter.project_package_name }} -p {{ cookiecutter.api_port }}:{{ cookiecutter.api_port }}
 
 
 docker_build_and_run: docker_build docker_run

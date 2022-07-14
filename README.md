@@ -1,3 +1,14 @@
+<p align="center">
+  <img alt="Create App logo" src="https://raw.githubusercontent.com/application-creators/create_app/main/docs/static/logo-cropped.png">
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/application-creators/python_fastapi/actions"><img alt="Test Creation Workflow Status" src="https://github.com/application-creators/python_fastapi/workflows/Test%20Creation/badge.svg"></a>
+    <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
+</p>
+
+
 # FastAPI Project Template
 
 This is a template used by [create_app](https://github.com/application-creators/create_app) to create a 
